@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/thushi_portfolio/static/css/main.95dce61b.css",
+    "main.js": "/thushi_portfolio/static/js/main.3a32c143.js",
+    "static/media/hero.jpeg": "/thushi_portfolio/static/media/hero.0bccb423c7dc02e4502f.jpeg",
+    "static/media/resume.jpg": "/thushi_portfolio/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "static/media/R.jpeg": "/thushi_portfolio/static/media/R.47228ec9133156f29abf.jpeg",
+    "static/media/p1.jpg": "/thushi_portfolio/static/media/p1.eafe63f111642916db25.jpg",
+    "static/media/about.jpeg": "/thushi_portfolio/static/media/about.7078b0263eeb614d9a45.jpeg",
+    "static/media/p3.jpeg": "/thushi_portfolio/static/media/p3.505059c89f5718e6573f.jpeg",
+    "index.html": "/thushi_portfolio/index.html",
+    "main.95dce61b.css.map": "/thushi_portfolio/static/css/main.95dce61b.css.map",
+    "main.3a32c143.js.map": "/thushi_portfolio/static/js/main.3a32c143.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95dce61b.css",
+    "static/js/main.3a32c143.js"
+  ]
+}
